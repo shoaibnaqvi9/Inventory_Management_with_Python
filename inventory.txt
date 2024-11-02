@@ -1,0 +1,1 @@
+item1,Iron,2000.0,Electronic,25
